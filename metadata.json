@@ -1,0 +1,6 @@
+{
+  "name": "Notepad",
+  "description": "An elegant, highly responsive and colorful local note-taking application inspired by Google Keep, designed with custom color schemes, list/grid layouts, searching, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
